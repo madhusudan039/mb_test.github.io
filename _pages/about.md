@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Madhusudan Basak"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,3 +14,17 @@ I have a strong background in teaching and research, having served as an Assista
 My research is driven by a passion for advancing intelligent systems that address real-world challenges in a responsible and efficient manner. I specialize in healthcare text analytics, using natural language processing (NLP) and machine learning (ML) to extract valuable insights from medical texts. This focus is part of a broader interest in human-centered AI and assistive technologies.
 
 Outside of my academic and professional pursuits, I have been actively involved in organizing conferences and workshops, coaching programming contest teams, and participating in various extracurricular and community service activities.
+
+# Publications
+
+## 2024
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/Perplexity.png" alt="Image 1" style="width: 100px; height: auto; margin-right: 20px;">
+  <p>This is a small description for the first entry. It contains a brief summary or some details related to the image on the left.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/Characterizing_IS.pnd" alt="Image 2" style="width: 100px; height: auto; margin-right: 20px;">
+  <p>This is a small description for the second entry. It provides more information about the content depicted in the image to the left.</p>
+</div>
