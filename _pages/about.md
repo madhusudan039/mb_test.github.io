@@ -20,11 +20,11 @@ Outside of my academic and professional pursuits, I have been actively involved 
 ## 2024
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/Perplexity.png" alt="Image 1" style="width: 100px; height: auto; margin-right: 20px;">
+  <img src="../images/Perplexity.png" alt="Image 1" style="width: 100px; height: auto; margin-right: 20px;">
   <p>This is a small description for the first entry. It contains a brief summary or some details related to the image on the left.</p>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/Characterizing_IS.pnd" alt="Image 2" style="width: 100px; height: auto; margin-right: 20px;">
+  <img src="../images/Characterizing_IS.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 20px;">
   <p>This is a small description for the second entry. It provides more information about the content depicted in the image to the left.</p>
 </div>
